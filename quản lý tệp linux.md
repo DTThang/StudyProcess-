@@ -29,7 +29,7 @@ Sơ đồ thư mục hệ thống linux
  
  - /dev: 
 
-  -Chứa các tập tin thiết bị phần cứng, bao gồm các thiết bị đầu cuối, thiết bị được gắn vào hệ thống. Vd: cdrom, cpu, core… 
+  - Chứa các tập tin thiết bị phần cứng, bao gồm các thiết bị đầu cuối, thiết bị được gắn vào hệ thống. Vd: cdrom, cpu, core… 
  
  ![image](https://user-images.githubusercontent.com/92305335/139216392-aaab20b9-1c8e-4f2b-a087-f7fbbb24cb5d.png)
 
