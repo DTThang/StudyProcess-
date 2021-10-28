@@ -82,7 +82,7 @@ Vd: viz, java
 
   - Là thư mục của người dùng root
 
-  -Chỉ người dùng root mới được sử dụng thư mục này 
+  - Chỉ người dùng root mới được sử dụng thư mục này 
 
 - /run
 
