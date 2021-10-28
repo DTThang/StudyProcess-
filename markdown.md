@@ -2,6 +2,14 @@
 
 [1. Thẻ tiêu đề](#1)
 
+[2. Chèn link, chèn ảnh](#2)
+
+[3. Đánh dấu, gạch đầu dòng](#3)
+
+[4. Tạo bảng](#4)
+
+[5. Chữ ](#5)
+
 <a name = '1'></a>
 ## 1. Thẻ tiêu đề
 
@@ -21,6 +29,7 @@ Tiêu đề lv3: ### Tiêu đề lv 3
 
 ---
 
+<a name = '2'></a>
 ## 2. Chẻn link, chèn ảnh
 
 * Chèn link
@@ -41,7 +50,7 @@ Chèn ảnh ta có thể sử dụng cú pháp
 ![image](link của bạn )
 
 ---
-
+<a name = '3'></a>
 ## 3. Đánh dấu, gạch đầu dòng 
 Cú pháp: 
 
@@ -83,7 +92,7 @@ Kết quả:
   - Thụt với đầu dòng 2
 
 ---
-  
+  <a name = '4'></a>
 ## 4. Tạo bảng 
 cú pháp: 
 
@@ -98,7 +107,7 @@ Kết quả:
 | hóa  |v|v|x|
 
 ---
-
+<a name = '5'></a>
 ## 5. Chữ 
 
 * In nghiêng
