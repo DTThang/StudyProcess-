@@ -26,7 +26,7 @@ Có thể thu gọn đường link bằng cách:
 
 Kết quả: [DTThang](https://github.com/DTThang)
 
-# 3. Đánh dấu, thụt dòng
+# 3. Đánh dấu, gạch đầu dòng 
 1. Chương 1
 2. Chương 2
 3. Chương 3
@@ -34,4 +34,18 @@ Kết quả: [DTThang](https://github.com/DTThang)
 * a, 
 * b,
 * c, 
+
+- Gạch đầu dòng thứ nhất
+  
+  - Thụt với đầu dòng 1
+  
+  - Thụt với đầu dòng 1
+ 
+- Gạch đầu dòng thứ hai
+  
+  - Thụt với đầu dòng 2
+  
+  - Thụt với đầu dòng 2
+  
+
   
