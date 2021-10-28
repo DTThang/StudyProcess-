@@ -1,12 +1,10 @@
 # Mục lục 
 
-[1. Thẻ tiêu đề](##1)
+[1. Thẻ tiêu đề](#1)
 
-[2. Chẻn link, chèn ảnh](##2)
+[2. Chẻn link, chèn ảnh](#2)
 
 ---
-
-<a name = '1'></a> 
 
 ## 1. Thẻ tiêu đề
 
