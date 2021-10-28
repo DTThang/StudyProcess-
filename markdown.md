@@ -1,10 +1,3 @@
-# Mục lục 
-
-[1. Thẻ tiêu đề](#1)
-
-[2. Chẻn link, chèn ảnh](#2)
-
----
 
 ## 1. Thẻ tiêu đề
 
@@ -22,9 +15,12 @@ Tiêu đề lv3: ### Tiêu đề lv 3
 
 ### Tiêu đề lv 3
 
+---
+
 ## 2. Chẻn link, chèn ảnh
 
 * Chèn link
+
 Ta có thể chèn link bằng cách paste link vào file .md 
 
 https://github.com/DTThang
@@ -39,6 +35,8 @@ Kết quả: [DTThang](https://github.com/DTThang)
 Chèn ảnh ta có thể sử dụng cú pháp  
 
 ![image](link của bạn )
+
+---
 
 ## 3. Đánh dấu, gạch đầu dòng 
 Cú pháp: 
@@ -79,6 +77,8 @@ Kết quả:
   - Thụt với đầu dòng 2
   
   - Thụt với đầu dòng 2
+
+---
   
 ## 4. Tạo bảng 
 cú pháp: 
@@ -92,6 +92,8 @@ Kết quả:
 | toán |x|v|v|
 | lý   |x|x|v|
 | hóa  |v|v|x|
+
+---
 
 ## 5. Chữ 
 
