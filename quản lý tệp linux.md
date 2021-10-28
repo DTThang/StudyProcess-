@@ -5,11 +5,11 @@ Sơ đồ thư mục hệ thống linux
 ![image](https://user-images.githubusercontent.com/92305335/139211765-d59d17ed-6e36-4f50-bfc7-df970d18d89a.png)
 
  
--	/ : 
+-/ : 
 
-  -	Thư mục gốc, chưa tất cả file và thư mục hệ thống
+  -Thư mục gốc, chưa tất cả file và thư mục hệ thống
 
-  -	Chỉ người dùng root mới có quyền ghi cho thư mục này
+  -Chỉ người dùng root mới có quyền ghi cho thư mục này
 
 ![image](https://user-images.githubusercontent.com/92305335/139211836-ee481bad-c4ec-4e2f-a0de-0f68949fe1bf.png)
 
