@@ -59,6 +59,7 @@ cú pháp:
 ![image](https://user-images.githubusercontent.com/92305335/139185968-f42f726a-f462-4b3b-b9ac-5761a66f5883.png)
 
 | môn/thứ | thứ2 | thư3 | thu4 |
+|----|----|----|----|
 | toán |x|v|v|
 | lý   |x|x|v|
 | hóa  |v|v|x|
