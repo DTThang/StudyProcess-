@@ -122,3 +122,6 @@ Vd: viz, java
   - Thư mục chứa các tập tin tạm được tạo bởi hệ thống và người dùng
  
   - Các tập tin trong thư mục này bị xóa khi hệ thống khởi động lại.
+# Tham khảo 
+
+https://kb.hostvn.net/cau-truc-cay-thu-muc-trong-linux_61.html
