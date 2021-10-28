@@ -52,6 +52,13 @@ Kết quả:
 * a, 
 * b,
 * c, 
+Gạch đầu dòng:
+
+Cú pháp: 
+
+![image](https://user-images.githubusercontent.com/92305335/139187721-964a95a4-6ae6-4688-af5f-f1bd2fe9cbd7.png)
+
+Kết quả: 
 
 - Gạch đầu dòng thứ nhất
   
