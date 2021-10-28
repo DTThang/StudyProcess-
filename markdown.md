@@ -56,7 +56,7 @@ Chèn ảnh ta có thể sử dụng cú pháp
 # 4. Tạo bảng 
 cú pháp: 
 
-![image](https://user-images.githubusercontent.com/92305335/139185968-f42f726a-f462-4b3b-b9ac-5761a66f5883.png)
+![image](https://user-images.githubusercontent.com/92305335/139186370-d6504e98-b679-4cec-b88c-78380bb6ae17.png)
 
 | môn/thứ | thứ2 | thư3 | thu4 |
 |----|----|----|----|
