@@ -58,9 +58,24 @@ cú pháp:
 
 ![image](https://user-images.githubusercontent.com/92305335/139186370-d6504e98-b679-4cec-b88c-78380bb6ae17.png)
 
-| môn/thứ | thứ2 | thư3 | thu4 |
+Kết quả: 
+
+| môn/thứ | thứ 2 | thứ 3| thứ 4 |
 |----|----|----|----|
 | toán |x|v|v|
 | lý   |x|x|v|
 | hóa  |v|v|x|
-  
+
+# 5. Chữ 
+
+* In nghiêng ![image](https://user-images.githubusercontent.com/92305335/139186714-4b0d5700-e284-44bb-b811-d556bd38c7a1.png)
+
+Kết quả: 
+
+*in nghiêng*
+
+* In đậm ![image](https://user-images.githubusercontent.com/92305335/139186736-e238aa4a-bb92-462c-a72d-0ddbd6f5cc43.png)
+
+Kết quả:
+
+**in đậm**
