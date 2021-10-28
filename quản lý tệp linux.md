@@ -96,7 +96,7 @@ Vd: viz, java
 
 - /sys
 
-  -Chứa các file giao diện phần cứng khác nhau và các tiến trình liên quan được quản lý bởi linux kernel và các tiến trình liên quan.
+  - Chứa các file giao diện phần cứng khác nhau và các tiến trình liên quan được quản lý bởi linux kernel và các tiến trình liên quan.
  
 - /usr
 
