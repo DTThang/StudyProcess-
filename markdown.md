@@ -37,9 +37,9 @@ Kết quả: [DTThang](https://github.com/DTThang)
 
 - Gạch đầu dòng thứ nhất
   
-  - Thụt với đầu dòng 1
+- Thụt với đầu dòng 1
   
-  - Thụt với đầu dòng 1
+ - Thụt với đầu dòng 1
  
 - Gạch đầu dòng thứ hai
   
