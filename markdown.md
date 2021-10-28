@@ -33,9 +33,21 @@ Chèn ảnh ta có thể sử dụng cú pháp
 ![image](link của bạn )
 
 # 3. Đánh dấu, gạch đầu dòng 
+Cú pháp: 
+
+![image](https://user-images.githubusercontent.com/92305335/139187576-8bc4c6a5-ed5f-428e-b9c2-4500c5f4087a.png)
+
+Kết quả: 
+
 1. Chương 1
 2. Chương 2
 3. Chương 3
+
+Cú pháp:
+
+![image](https://user-images.githubusercontent.com/92305335/139187618-4700bb90-c969-4758-b5fb-4afe35471fef.png)
+
+Kết quả: 
 
 * a, 
 * b,
