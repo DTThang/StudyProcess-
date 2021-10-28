@@ -39,7 +39,7 @@ Kết quả: [DTThang](https://github.com/DTThang)
   
 - Thụt với đầu dòng 1
   
- - Thụt với đầu dòng 1
+  - Thụt với đầu dòng 1
  
 - Gạch đầu dòng thứ hai
   
