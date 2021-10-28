@@ -69,14 +69,16 @@ Kết quả:
 # 5. Chữ 
 
 * In nghiêng
-![image](https://user-images.githubusercontent.com/92305335/139186899-f77a2751-2225-41f3-a3a2-d237caf7ae42.png)
+
+![image](https://user-images.githubusercontent.com/92305335/139186980-14cb3377-46c9-4c1b-9d48-c09937602593.png)
 
 Kết quả: 
 
 *in nghiêng*
 
 * In đậm
-![image](https://user-images.githubusercontent.com/92305335/139186923-574a13cb-ba58-464a-b62b-d68b45725351.png)
+
+![image](https://user-images.githubusercontent.com/92305335/139187002-d65e8f69-b937-49e0-a04b-15ef8b2859ac.png)
 
 Kết quả:
 
