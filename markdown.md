@@ -1,8 +1,8 @@
 # Mục lục 
 
-* [1.Thẻ tiêu đề](#1)
+[1.Thẻ tiêu đề](##1)
 
-* [2. Chèn link, chèn ảnh](#2)
+[2. Chèn link, chèn ảnh](##2)
 
 
 
