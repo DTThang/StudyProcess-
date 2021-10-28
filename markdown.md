@@ -1,4 +1,12 @@
-# 1. Thẻ tiêu đề
+# Mục lục 
+
+*[1.Thẻ tiêu đề](##1)
+
+*[2. Chèn link, chèn ảnh](##2)
+
+
+
+## 1. Thẻ tiêu đề
 
 Sử dụng ký tự # để bắt đầu cho các thẻ tiêu đề 
 
@@ -14,7 +22,7 @@ Tiêu đề lv3: ### Tiêu đề lv 3
 
 ### Tiêu đề lv 3
 
-# 2. Chẻn link, chèn ảnh
+## 2. Chẻn link, chèn ảnh
 
 * Chèn link
 Ta có thể chèn link bằng cách paste link vào file .md 
@@ -32,7 +40,7 @@ Chèn ảnh ta có thể sử dụng cú pháp
 
 ![image](link của bạn )
 
-# 3. Đánh dấu, gạch đầu dòng 
+## 3. Đánh dấu, gạch đầu dòng 
 Cú pháp: 
 
 ![image](https://user-images.githubusercontent.com/92305335/139187576-8bc4c6a5-ed5f-428e-b9c2-4500c5f4087a.png)
@@ -72,7 +80,7 @@ Kết quả:
   
   - Thụt với đầu dòng 2
   
-# 4. Tạo bảng 
+## 4. Tạo bảng 
 cú pháp: 
 
 ![image](https://user-images.githubusercontent.com/92305335/139186370-d6504e98-b679-4cec-b88c-78380bb6ae17.png)
@@ -85,7 +93,7 @@ Kết quả:
 | lý   |x|x|v|
 | hóa  |v|v|x|
 
-# 5. Chữ 
+## 5. Chữ 
 
 * In nghiêng
 
